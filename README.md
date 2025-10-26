@@ -1,6 +1,7 @@
+![MERN Stack Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/571263651_1523213145761402_1829100203464402092_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHYRxq_b_GjgBYwotXE7I40l2VxuDvVm-eXZXG4O9Wb50FSrsB4cl66fKg_LQPqGdOkkD9xSswKU-D724F8t1zT&_nc_ohc=OwZKcAbl03AQ7kNvwECYmV4&_nc_oc=AdlN_odS35T3gKsY36jT8552247s0n_I-i3GYuagSukF7feztwfdVC1GtKzEaNsFQ8A&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=th6c4iciGjpDE6QL8E2Z1Q&oh=00_AfeLsFLpXkVinQcNcEwVLzvqz2RZjR_cAXPFFbGN9CQLSg&oe=6904074D)
+
 ### Hi there 👋, I'm Tarak Rahman
 #### MERN Stack Developer
-![MERN Stack Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/571263651_1523213145761402_1829100203464402092_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeHYRxq_b_GjgBYwotXE7I40l2VxuDvVm-eXZXG4O9Wb50FSrsB4cl66fKg_LQPqGdOkkD9xSswKU-D724F8t1zT&_nc_ohc=OwZKcAbl03AQ7kNvwECYmV4&_nc_oc=AdlN_odS35T3gKsY36jT8552247s0n_I-i3GYuagSukF7feztwfdVC1GtKzEaNsFQ8A&_nc_zt=23&_nc_ht=scontent.fdac31-1.fna&_nc_gid=th6c4iciGjpDE6QL8E2Z1Q&oh=00_AfeLsFLpXkVinQcNcEwVLzvqz2RZjR_cAXPFFbGN9CQLSg&oe=6904074D)
 
 A passionate MERN Stack Developer from Bangladesh
 
