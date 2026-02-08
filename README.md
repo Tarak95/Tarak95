@@ -25,10 +25,12 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ---
 
+---
+
 ### 📊 GitHub Stats & Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tarak95&theme=onedark&no-frame=false&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarak95&theme=onedark&margin-w=15&no-bg=true" alt="Trophies" />
   
   <br/><br/>
 
