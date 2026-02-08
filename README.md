@@ -6,6 +6,10 @@ I'm a passionate MERN-stack developer with over 1 year of experience creating di
 
 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and tutorials.
 
+- 🔭 I’m currently working on [Nexcent](https://nexcent-ten.vercel.app/) 
+- 🌱 I’m currently learning MongoDB 
+- 💬 Ask me about GitHub 
+
 ## 🛠 Skills
 
 ### 🚀 Languages & Frameworks
@@ -24,9 +28,6 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-- 🔭 I’m currently working on [Nexcent](https://nexcent-ten.vercel.app/) 
-- 🌱 I’m currently learning MongoDB 
-- 💬 Ask me about GitHub 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarak95) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tarak-rahman-3879903a8/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tarak.rahman.485226) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tarek.cse/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TarakRahma88288) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://protfolio-xi-ashen.vercel.app/#about)
 
