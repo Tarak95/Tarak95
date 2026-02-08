@@ -8,7 +8,18 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 - 🔭 I’m currently working on [Nexcent](https://nexcent-ten.vercel.app/) 
 - 🌱 I’m currently learning MongoDB 
-- 💬 Ask me about GitHub 
+- 💬 Ask me about GitHub
+
+- ## 🤝 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="YOUR_USERNAME" /></a>
+<a href="https://medium.com/@YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="YOUR_USERNAME" /></a>
+<a href="https://stackoverflow.com/users/YOUR_ID/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="YOUR_USERNAME" /></a>
+<a href="https://twitter.com/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="YOUR_USERNAME" /></a>
+<a href="https://facebook.com/YOUR_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="YOUR_USERNAME" /></a>
+<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="YOUR_USERNAME" /></a>
+</p>
 
 ## 🛠 Skills
 
