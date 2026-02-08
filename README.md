@@ -20,14 +20,24 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ---
 
+---
+
 ### 📊 GitHub Stats & Metrics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tarak95&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarak95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarak95&theme=onedark" alt="Trophies" />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarak95&show_icons=true&count_private=true&theme=vision-friendly-dark)
+  <br/><br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Tarak95&theme=vision-friendly-dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarak95&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tarak95/contributions?format=svg)
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarak95&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=Tarak95&theme=vision-friendly-dark" alt="GitHub Streak" />
+
+</div>
