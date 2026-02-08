@@ -23,20 +23,22 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ---
 ---
 
+---
+
 ### 📊 GitHub Stats & Metrics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tarak95&theme=onedark&margin-w=15" alt="Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tarak95&theme=onedark&no-frame=false&margin-w=15" alt="Trophies" />
+  
+  <br/><br/>
 
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tarak95&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats" />
-</p>
 
-<p align="center">
+  <br/><br/>
+
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tarak95&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
 
-<p align="center">
+  <br/><br/>
+
   <img src="https://streak-stats.demolab.com/?user=Tarak95&theme=vision-friendly-dark" alt="Streak Stats" />
-</p>
+</div>
