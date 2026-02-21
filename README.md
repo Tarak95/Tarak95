@@ -87,3 +87,23 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=Tarak95&show_icons=true&theme=dark)
 
 </div>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rayan2228&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+
+## 💹 GitHub Contribution Graph
+[![Rayan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayan2228&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 👾 Pacman On Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg">
+</picture>
+
+## 🐍 Snake On Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
