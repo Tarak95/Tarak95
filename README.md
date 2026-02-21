@@ -65,11 +65,6 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tarak95)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarak95)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarak95&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tarak95)
 
