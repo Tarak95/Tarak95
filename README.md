@@ -1,27 +1,41 @@
-### Hi there 👋, I'm Tarak Rahman
-#### MERN Stack Developer
+# 👋 Hi, I'm Tarak Rahman  
+### 🚀 MERN Stack Developer  
+
 ![MERN Stack Developer](https://pbs.twimg.com/profile_images/2018915160908509184/EkyUjFlo.jpg)
 
-I'm a passionate MERN-stack developer with over 1 year of experience creating digital solutions for businesses around the world. My journey started with basic HTML/CSS websites and has evolved into building complex web applications with modern frameworks.
+I'm a passionate MERN Stack Developer with over 1 year of experience building modern web applications.  
+I started my journey with basic HTML & CSS and now build full-stack applications using modern technologies.
 
-When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and tutorials.
+- 🔭 I’m currently working on **Nexcent**
+- 🌱 I’m currently learning **MongoDB (Advanced Concepts)**
+- 💬 Ask me about **GitHub & React**
+- ⚡ Fun fact: I love building real-world problem-solving apps
 
-- 🔭 I’m currently working on [Nexcent](https://nexcent-ten.vercel.app/) 
-- 🌱 I’m currently learning MongoDB 
-- 💬 Ask me about GitHub
+---
 
-- ## 🤝 Connect with me:
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="(https://www.linkedin.com/in/tarak-rahman-3879903a8/)" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tarak Rahman" /></a>
-<a href="(https://x.com/TarakRahma88288)" target="blank"><img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Tarak Rahman" /></a>
-<a href="(https://www.facebook.com/tarak.rahman.485226)" target="blank"><img align="center" src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Tarak Rahman" /></a>
-<a href="tarekrahman8295@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Tarak Rahman" /></a>
+<a href="https://www.linkedin.com/in/tarak-rahman-3879903a8/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://x.com/TarakRahma88288" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/tarak.rahman.485226" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="mailto:tarekrahman8295@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
-## 🛠 Skills
+---
 
-### 🚀 Languages & Frameworks
+# 🛠 Skills
+
+## 🚀 Languages & Frameworks
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,50 +44,58 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools & Platforms
+---
+
+## ⚙️ Tools & Platforms
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Tarak95) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tarak-rahman-3879903a8/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tarak.rahman.485226) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tarek.cse/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/TarakRahma88288) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://protfolio-xi-ashen.vercel.app/#about)
+# 📊 GitHub Stats
 
-<br/>
+![](https://github-readme-stats.vercel.app/api?username=Tarak95&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>
+![](https://nirzak-streak-stats.vercel.app/?user=Tarak95&theme=merko&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarak95&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
----
----
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Tarak95&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
+# 💹 Contribution Graph
+
+[![Tarak's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarak95&theme=merko)](https://github.com/Tarak95)
+
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayan2228&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rayan2228&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayan2228&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 👾 Pacman Contribution Graph
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayan2228&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-
-## 💹 GitHub Contribution Graph
-[![Rayan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayan2228&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 👾 Pacman On Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarak95/Tarak95/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarak95/Tarak95/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tarak95/Tarak95/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🐍 Snake On Contributions
+---
+
+# 🐍 Snake Contribution Graph
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tarak95/Tarak95/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tarak95/Tarak95/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Tarak95/Tarak95/output/github-snake.svg">
 </picture>
+
+---
+
+⭐️ From [Tarak95](https://github.com/Tarak95)
