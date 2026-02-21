@@ -56,15 +56,19 @@ I started my journey with basic HTML & CSS and now build full-stack applications
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=Tarak95&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tarak95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Tarak95&theme=merko&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarak95&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarak95&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarak95&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 # 🏆 GitHub Trophies
 
