@@ -67,9 +67,16 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Tarak95)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Tarak95/contributions?format=svg&private=true)  
+<div align="center">
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Tarak95)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tarak95)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Tarak95)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarak95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tarak95&show_icons=true&theme=radical)
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tarak95/contributions?format=svg)
+
+![GitHub metrics](https://metrics.lecoq.io/Tarak95)
+
+</div>
