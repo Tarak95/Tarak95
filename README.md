@@ -84,6 +84,6 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Tarak95/contributions?format=svg)
 
-![GitHub metrics](https://metrics.lecoq.io/Tarak95)
+![GitHub Metrics](https://github-readme-stats.vercel.app/api?username=Tarak95&show_icons=true&theme=dark)
 
 </div>
