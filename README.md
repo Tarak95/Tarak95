@@ -6,7 +6,6 @@ I'm a passionate MERN-stack developer with over 1 years of experience creating d
 
 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and tutorials.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Chatting Application 
 - 🌱 I’m currently learning MongoDB 
