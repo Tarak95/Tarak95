@@ -92,7 +92,7 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ![](https://github-profile-trophy.vercel.app/?username=rayan2228&theme=merko&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💹 GitHub Contribution Graph
-[![Rayan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayan2228&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rayan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarak95&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👾 Pacman On Contributions
 <picture>
