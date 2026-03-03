@@ -1,6 +1,10 @@
 # Hi 👋, I'm Tarak Rahman
 ## MERN Stack Developer
-![MERN Stack Developer](https://camo.githubusercontent.com/7a1a6207fe6b9199584d1207594c870ee9bb36f8200c6cba963223c9e8731ca7/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f323031383931353136303930383530393138342f456b79556a466c6f2e6a7067)
+![MERN Stack Developer]
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tarak95&label=Profile%20views&color=brightgreen&style=for-the-badge)
+
+(https://camo.githubusercontent.com/7a1a6207fe6b9199584d1207594c870ee9bb36f8200c6cba963223c9e8731ca7/68747470733a2f2f7062732e7477696d672e636f6d2f70726f66696c655f696d616765732f323031383931353136303930383530393138342f456b79556a466c6f2e6a7067)
 
 I'm a passionate MERN-stack developer with over 1 years of experience creating digital solutions for businesses around the world. My journey started with basic HTML/CSS websites and has evolved into building complex web applications with modern frameworks.
 
