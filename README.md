@@ -93,9 +93,8 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rayan2228&theme=merko&no-frame=false&no-bg=true&margin-w=4)
-<a href="https://github.com">
-  <img src="https://vercel.app" alt="trophy" />
-</a>
+[![trophy](https://vercel.app)](https://github.com)
+
 
 
 ## 💹 GitHub Contribution Graph
