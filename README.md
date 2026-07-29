@@ -8,7 +8,7 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 
 - 🔭 I’m currently working on Chatting Application 
-- 🌱 I’m currently learning MongoDB 
+- 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Github
 
 ### 🤝 Connect with me:
