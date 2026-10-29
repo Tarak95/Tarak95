@@ -98,7 +98,7 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 
 ## 💹 GitHub Contribution Graph
-[![Rayan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarak95&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tarak GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tarak95&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 👾 Pacman On Contributions
 <picture>
